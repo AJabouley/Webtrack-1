@@ -15,3 +15,16 @@ a{
     text-decoration: underline;
     color:orange;
 }
+.EquipeFNC {
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style-type: none;
+}
+
+.JoueurLOL,figcaption{
+    width: 200px;
+    height: auto;
+    text-align: center;
+    opacity: 1;
+}
